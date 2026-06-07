@@ -61,7 +61,7 @@ URL → Website Loader → Text Splitter → Embeddings → Retriever → Gemini
 ## Project Structure
 
 ```bash
-ContextChat-AI/
+Website-Chatbot/
 │
 ├── app.py
 ├── .env
@@ -79,7 +79,7 @@ Clone the repository:
 
 ```bash
 git clone <your-repository-url>
-cd ContextChat-AI
+cd Website-Chatbot
 ```
 
 Install dependencies:
